@@ -1,0 +1,12 @@
+# Сборочные артефакты
+*.exe
+*.o
+*.obj
+SPbPoly
+SPbPoly_test
+dist/
+a.out
+
+# Системное
+.DS_Store
+Thumbs.db
